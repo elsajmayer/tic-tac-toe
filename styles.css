@@ -1,0 +1,47 @@
+h1 {
+  margin: 8% auto 1% auto;
+  text-align: center;
+}
+
+#message {
+  margin: 0 auto;
+  text-align: center;
+}
+
+button {
+  display:block;
+  width:20%;
+  margin:0 auto;
+}
+.center-block {
+  float: center;
+}
+
+table {
+  margin: 50px auto;
+}
+
+td {
+  font-size: 32px;
+  height: 100px;
+  text-align: center;
+  width: 100px;
+}
+
+.vertical {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.horizontal {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.colorX {
+  background: green;
+}
+
+.colorY {
+  background: blue;
+}
